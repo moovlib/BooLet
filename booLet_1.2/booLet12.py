@@ -15,7 +15,7 @@ from datetime import datetime
 import geoip2.database
 import sqlite3 as lite
 import pyasn, yaml
-from src.booLetLib import *
+from src.BooLetLib import *
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
